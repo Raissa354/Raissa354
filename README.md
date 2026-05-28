@@ -6,7 +6,7 @@
 
 # ꧁༒☬ oii bem vindo ao meu perfil ☬༒꧂
 
-   ## დઽ 💻 lógicα dє prσgrαmαção • 🌐 html/css/js • 🗄️ bαncσ dє dαdσs
+   ## დઽ 💻 lógica dє prσgrαmαção • 🌐 html/css/js • 🗄️ bαncσ dє dαdσs
 
 
 <p>
