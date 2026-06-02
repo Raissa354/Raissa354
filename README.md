@@ -18,3 +18,15 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&color=9333ea&section=footer&reversal=false&animation=fadeIn"/>
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+
+
+
