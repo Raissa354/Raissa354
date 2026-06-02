@@ -2,7 +2,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9333ea&section=header&reversal=true&animation=fadeIn"/>
 
 <div align="center">
-
+<!-- ✨ TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=28&center=true&vCenter=true&width=800&lines=𝔒𝔩á,+𝔢𝔲+𝔰𝔬𝔲+𝔞+𝔯𝔞𝔦𝔰𝔰𝔞+👋;𝔇𝔢𝔰𝔢𝔫𝔳𝔬𝔩𝔳𝔢𝔡𝔬𝔯𝔞+𝔢𝔪+𝔣𝔬𝔯𝔪𝔞çã𝔬+💻;𝔖𝔢𝔪𝔭𝔯𝔢+𝔞𝔭𝔯𝔢𝔫𝔡𝔢𝔫𝔡𝔬+𝔞𝔩𝔤𝔬+𝔫𝔬𝔳𝔬+📚" />
+</p>
 
 # ꧁༒☬ oii bem vindo ao meu perfil ☬༒꧂
 
@@ -26,4 +29,26 @@
 <div align="center">
 
 
+
+
+
+
+<!-- ✨ TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=28&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Raissa+👋;Desenvolvedora+em+formação+💻;Apaixonada+por+tecnologia+🚀;Sempre+aprendendo+algo+novo+📚" />
+</p>
+
+---
+
+
+
+---
+
+<h1 align="center">🌸 Bem-vindo(a) ao meu GitHub 🌸</h1>
+
+<p align="center">
+  🚀 Explorando o mundo da programação • 💡 Criando ideias em projetos • 🌍 Evoluindo um dia de cada vez
+</p>
+
+---
 
