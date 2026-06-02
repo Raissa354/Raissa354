@@ -29,19 +29,6 @@
 <div align="center">
 
 
-
-
-
-
-<!-- ✨ TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=28&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Raissa+👋;Desenvolvedora+em+formação+💻;Apaixonada+por+tecnologia+🚀;Sempre+aprendendo+algo+novo+📚" />
-</p>
-
----
-
-
-
 ---
 
 <h1 align="center">🌸 Bem-vindo(a) ao meu GitHub 🌸</h1>
