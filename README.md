@@ -12,8 +12,7 @@
 
 # ꧁༒☬ oii bem vindo ao meu perfil ☬༒꧂
 
-   ## დઽ 💻 lógica dє prσgrαmαção • 🌐 html/css/js • 🗄️ bαncσ dє dαdσs
-
+   ## დઽ 💻 lógica dє prσgrαmαção  დઽ
 
 <p>
    <img 
