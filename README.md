@@ -8,7 +8,7 @@
 <div align="center">
 <!-- ✨ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=28&center=true&vCenter=true&width=800&lines=𝔒𝔩á,+𝔢𝔲+𝔰𝔬𝔲+𝔞+𝔯𝔞𝔦𝔰𝔰𝔞+👋;𝔇𝔢𝔰𝔢𝔫𝔳𝔬𝔩𝔳𝔢𝔡𝔬𝔯𝔞+𝔢𝔪+𝔣𝔬𝔯𝔪𝔞çã𝔬+💻;𝔖𝔢𝔪𝔭𝔯𝔢+𝔞𝔭𝔯𝔢𝔫𝔡𝔢𝔫𝔡𝔬+𝔞𝔩𝔤𝔬+𝔫𝔬𝔳𝔬+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=28&center=true&vCenter=true&width=800&lines=୨୧+𝓞𝓵á,+𝓔𝓾+𝓼𝓸𝓾+𝓪+𝓡𝓪𝓲𝓼𝓼𝓪+👋;୨୧+𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒅𝒐𝒓𝒂+𝒆𝒎+𝒇𝒐𝒓𝒎𝒂çã𝒐+💻;୨୧+𝑺𝒆𝒎𝒑𝒓𝒆+𝒂𝒑𝒓𝒆𝒏𝒅𝒆𝒏𝒅𝒐+𝒂𝒍𝒈𝒐+𝒏𝒐𝒗𝒐+📚" />
 </p>
 
 # ꧁༒☬ oii bem vindo ao meu perfil ☬༒꧂
@@ -37,10 +37,10 @@
 
 ---
 
-<h1 align="center">🌸 Bem-vindo(a) ao meu GitHub 🌸</h1>
+<h1 align="center">୨୧ 🌸 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓖𝓲𝓽𝓗𝓾𝓫 🌸 ୨୧</h1>
 
 <p align="center">
-  🚀 Explorando o mundo da programação • 💡 Criando ideias em projetos • 🌍 Evoluindo um dia de cada vez
+  🚀 𝑬𝒙𝒑𝒍𝒐𝒓𝒂𝒏𝒅𝒐 𝒐 𝒎𝒖𝒏𝒅𝒐 𝒅𝒂 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂çã𝒐 • 💡 𝑪𝒓𝒊𝒂𝒏𝒅𝒐 𝒊𝒅𝒆𝒊𝒂𝒔 𝒆𝒎 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔 • 🌍 𝑬𝒗𝒐𝒍𝒖𝒊𝒏𝒅𝒐 𝒖𝒎 𝒅𝒊𝒂 𝒅𝒆 𝒄𝒂𝒅𝒂 𝒗𝒆𝒛
 </p>
 
 ---
