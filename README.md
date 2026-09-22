@@ -2,8 +2,8 @@
 ###
 
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff1493&section=header&reversal=true&animation=fadeIn"/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF69B4&section=header&reversal=true&animation=fadeIn"/>
 
 <div align="center">
 <!-- ✨ TYPING EFFECT -->
@@ -20,7 +20,9 @@
      <img width="1000" height="500" alt="492652d5649bb403be09e0ea3d04fbe7" src="https://github.com/user-attachments/assets/6d9356f8-b157-4322-8e10-5cafa8c5467f" />
 
 </p> 
-<img width="1000" height="250" alt="download (1)" src="https://github.com/user-attachments/assets/9e017621-6f33-4292-b9ab-f18aed5d8806" />
+
+<img width="1000" height="200" alt="download (4)" src="https://github.com/user-attachments/assets/77e8b5dd-a5b5-4b53-aff8-e598e554877d" />
+
 
 </div>
 
