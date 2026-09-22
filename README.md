@@ -18,7 +18,7 @@
 <p>
    <img 
    <img width="1000" height="500" alt="download" src="https://github.com/user-attachments/assets/cb5756cd-28e9-4eb1-99bd-8ccebc08fa5a" />
-  <img width="1000" height="500" alt="e23973e25f965eaecefd97aa81437975" src="https://github.com/user-attachments/assets/e16d756c-7509-48e2-a0b9-9d6852b0d187" />
+
 </p> 
 <img width="1000" height="250" alt="download (1)" src="https://github.com/user-attachments/assets/9e017621-6f33-4292-b9ab-f18aed5d8806" />
 
