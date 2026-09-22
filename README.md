@@ -2,17 +2,13 @@
 ###
 
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7B2CBF&section=header&reversal=true&animation=fadeIn"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF0000&section=header&reversal=true&animation=fadeIn"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=DC143C&section=header&reversal=true&animation=fadeIn"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B91C1C&section=header&reversal=true&animation=fadeIn"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=EF4444&section=header&reversal=true&animation=fadeIn"/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E11D48&section=header&reversal=true&animation=fadeIn"/>
 
 <div align="center">
 <!-- ✨ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=28&center=true&vCenter=true&width=800&lines=୨୧+𝓞𝓵á,+𝓔𝓾+𝓼𝓸𝓾+𝓪+𝓡𝓪𝓲𝓼𝓼𝓪+👋;୨୧+𝑫𝒆𝒔𝒆𝒏𝒗𝒐𝒍𝒗𝒆𝒅𝒐𝒓𝒂+𝒆𝒎+𝒇𝒐𝒓𝒎𝒂çã𝒐+💻;୨୧+𝑺𝒆𝒎𝒑𝒓𝒆+𝒂𝒑𝒓𝒆𝒏𝒅𝒆𝒏𝒅𝒐+𝒂𝒍𝒈𝒐+𝒏𝒐𝒗𝒐+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=28&center=true&vCenter=true&width=800&lines=𝔒𝔩á,+𝔢𝔲+𝔰𝔬𝔲+𝔞+𝔯𝔞𝔦𝔰𝔰𝔞+👋;𝔇𝔢𝔰𝔢𝔫𝔳𝔬𝔩𝔳𝔢𝔡𝔬𝔯𝔞+𝔢𝔪+𝔣𝔬𝔯𝔪𝔞çã𝔬+💻;𝔖𝔢𝔪𝔭𝔯𝔢+𝔞𝔭𝔯𝔢𝔫𝔡𝔢𝔫𝔡𝔬+𝔞𝔩𝔤𝔬+𝔫𝔬𝔳𝔬+📚" />
 </p>
 
 # ꧁༒☬ oii bem vindo ao meu perfil ☬༒꧂
@@ -21,16 +17,14 @@
 
 <p>
    <img 
-     <img width="1000" height="500" alt="492652d5649bb403be09e0ea3d04fbe7" src="https://github.com/user-attachments/assets/6d9356f8-b157-4322-8e10-5cafa8c5467f" />
-
+   <img width="1000" height="500" alt="download" src="https://github.com/user-attachments/assets/cb5756cd-28e9-4eb1-99bd-8ccebc08fa5a" />
+  <img width="1000" height="500" alt="e23973e25f965eaecefd97aa81437975" src="https://github.com/user-attachments/assets/e16d756c-7509-48e2-a0b9-9d6852b0d187" />
 </p> 
-
-<img width="1000" height="200" alt="download (4)" src="https://github.com/user-attachments/assets/77e8b5dd-a5b5-4b53-aff8-e598e554877d" />
-
+<img width="1000" height="250" alt="download (1)" src="https://github.com/user-attachments/assets/9e017621-6f33-4292-b9ab-f18aed5d8806" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&color=ff1493&section=footer&reversal=false&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&color=7B2CBF&section=footer&reversal=false&animation=fadeIn"/>
 <div align="left">
 </div>
 
@@ -41,10 +35,17 @@
 
 ---
 
-<h1 align="center">୨୧ 🌸 𝓑𝓮𝓶-𝓿𝓲𝓷𝓭𝓸(𝓪) 𝓪𝓸 𝓶𝓮𝓾 𝓖𝓲𝓽𝓗𝓾𝓫 🌸 ୨୧</h1>
+<h1 align="center">🌸 Bem-vindo(a) ao meu GitHub 🌸</h1>
 
 <p align="center">
-  🚀 𝑬𝒙𝒑𝒍𝒐𝒓𝒂𝒏𝒅𝒐 𝒐 𝒎𝒖𝒏𝒅𝒐 𝒅𝒂 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒂çã𝒐 • 💡 𝑪𝒓𝒊𝒂𝒏𝒅𝒐 𝒊𝒅𝒆𝒊𝒂𝒔 𝒆𝒎 𝒑𝒓𝒐𝒋𝒆𝒕𝒐𝒔 • 🌍 𝑬𝒗𝒐𝒍𝒖𝒊𝒏𝒅𝒐 𝒖𝒎 𝒅𝒊𝒂 𝒅𝒆 𝒄𝒂𝒅𝒂 𝒗𝒆𝒛
+  🚀 Explorando o mundo da programação • 💡 Criando ideias em projetos • 🌍 Evoluindo um dia de cada vez
 </p>
 
 ---
+
+<p>
+  img
+<img width="540" height="263" alt="e23973e25f965eaecefd97aa81437975" src="https://github.com/user-attachments/assets/e16d756c-7509-48e2-a0b9-9d6852b0d187" />
+<p/>
+
+
