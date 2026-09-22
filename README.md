@@ -3,7 +3,11 @@
 
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF69B4&section=header&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FF0000&section=header&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=DC143C&section=header&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=B91C1C&section=header&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=EF4444&section=header&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E11D48&section=header&reversal=true&animation=fadeIn"/>
 
 <div align="center">
 <!-- ✨ TYPING EFFECT -->
