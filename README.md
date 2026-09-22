@@ -2,12 +2,13 @@
 ###
 
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9333ea&section=header&reversal=true&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=ff1493&section=header&reversal=true&animation=fadeIn"/>
+
 
 <div align="center">
 <!-- ✨ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7B2CBF&size=28&center=true&vCenter=true&width=800&lines=𝔒𝔩á,+𝔢𝔲+𝔰𝔬𝔲+𝔞+𝔯𝔞𝔦𝔰𝔰𝔞+👋;𝔇𝔢𝔰𝔢𝔫𝔳𝔬𝔩𝔳𝔢𝔡𝔬𝔯𝔞+𝔢𝔪+𝔣𝔬𝔯𝔪𝔞çã𝔬+💻;𝔖𝔢𝔪𝔭𝔯𝔢+𝔞𝔭𝔯𝔢𝔫𝔡𝔢𝔫𝔡𝔬+𝔞𝔩𝔤𝔬+𝔫𝔬𝔳𝔬+📚" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF1493&size=28&center=true&vCenter=true&width=800&lines=𝔒𝔩á,+𝔢𝔲+𝔰𝔬𝔲+𝔞+𝔯𝔞𝔦𝔰𝔰𝔞+👋;𝔇𝔢𝔰𝔢𝔫𝔳𝔬𝔩𝔳𝔢𝔡𝔬𝔯𝔞+𝔢𝔪+𝔣𝔬𝔯𝔪𝔞çã𝔬+💻;𝔖𝔢𝔪𝔭𝔯𝔢+𝔞𝔭𝔯𝔢𝔫𝔡𝔢𝔫𝔡𝔬+𝔞𝔩𝔤𝔬+𝔫𝔬𝔳𝔬+📚" />
 </p>
 
 # ꧁༒☬ oii bem vindo ao meu perfil ☬༒꧂
@@ -16,13 +17,13 @@
 
 <p>
    <img 
-   <img width="1000" height="500" alt="download" src="https://github.com/user-attachments/assets/cb5756cd-28e9-4eb1-99bd-8ccebc08fa5a" />
+  <img width="1000" height="500" alt="e23973e25f965eaecefd97aa81437975" src="https://github.com/user-attachments/assets/e16d756c-7509-48e2-a0b9-9d6852b0d187" />
 </p> 
 <img width="1000" height="250" alt="download (1)" src="https://github.com/user-attachments/assets/9e017621-6f33-4292-b9ab-f18aed5d8806" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&color=9333ea&section=footer&reversal=false&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&color=ff1493&section=footer&reversal=false&animation=fadeIn"/>
 <div align="left">
 </div>
 
